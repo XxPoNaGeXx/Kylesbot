@@ -86,7 +86,4 @@ async def on_message (message):
         await client.add_reaction(message, '💖')
 
 
-client.run('MzMxNDc1OTI2OTI5ODk5NTIy.DDwGhw.tJPiuQ4C9SdAJMMSMLqAP2Ki5xw')
-
-
-
+client.run('tocken here')
